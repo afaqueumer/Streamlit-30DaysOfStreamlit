@@ -1,0 +1,9 @@
+1. Create a new conda environment/virtual environment
+2. Activate the environment
+3. Install the Streamlit library
+	
+	-pip install streamlit
+
+4. Launching the Streamlit demo app
+
+	-streamlit hello
